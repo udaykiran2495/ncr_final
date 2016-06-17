@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1466145587 source:c:\users\udaykiran\documents\c++\ncr_final\main.cpp
+	<stdio.h>
+	<vector>
+	<iostream>
+	<list>
+	<fstream>
+

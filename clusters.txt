@@ -1,0 +1,3780 @@
+List 1: 1 2 3 4 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 3 4 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 3 5 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 3 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 3 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 3 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 3 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 4 5 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 4 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 4 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 4 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 4 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 2 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 2 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 2 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 2 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 2 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 2 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 3 4 5 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 3 4 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 3 4 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 3 4 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 3 4 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 3 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 3 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 3 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 3 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 3 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 3 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 3 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 3 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 3 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 3 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 4 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 4 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 4 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 4 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 4 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 4 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 4 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 4 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 4 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 4 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 1 5 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 1 5 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 1 5 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 1 5 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 1 5 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 1 5 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 1 6 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 1 6 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 1 6 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 1 7 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 6 7 8 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 6 7 9 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 6 8 9 
+
+vector ends 
+List 1: 2 3 4 5 List 2: 7 8 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 5 7 8 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 5 7 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 5 8 9 
+
+vector ends 
+List 1: 2 3 4 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 5 6 8 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 5 6 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 2 3 4 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 5 6 7 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 2 3 4 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 2 3 4 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 4 7 8 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 4 7 9 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 4 8 9 
+
+vector ends 
+List 1: 2 3 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 4 6 8 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 4 6 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 2 3 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 4 6 7 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 2 3 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 2 3 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 4 5 8 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 4 5 9 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 2 3 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 4 5 7 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 2 3 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 2 3 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 4 5 6 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 2 3 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 2 3 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 2 3 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 3 7 8 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 3 7 9 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 3 8 9 
+
+vector ends 
+List 1: 2 4 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 3 6 8 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 3 6 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 2 4 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 3 6 7 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 2 4 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 2 4 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 3 5 8 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 3 5 9 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 2 4 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 3 5 7 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 2 4 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 2 4 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 3 5 6 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 2 4 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 2 4 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 2 4 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 3 4 8 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 3 4 9 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 2 5 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 3 4 7 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 2 5 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 2 5 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 3 4 6 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 2 5 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 2 5 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 2 5 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 3 4 5 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 2 6 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 2 6 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 2 6 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 3 4 5 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 2 7 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 7 8 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 7 9 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 1 8 9 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 2 7 8 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 2 7 9 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 2 8 9 
+
+vector ends 
+List 1: 3 4 5 6 List 2: 7 8 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 6 8 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 6 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 2 6 8 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 2 6 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 3 4 5 7 List 2: 6 8 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 6 7 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 2 6 7 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 3 4 5 8 List 2: 6 7 9 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 3 4 5 9 List 2: 6 7 8 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 5 8 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 5 9 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 2 5 8 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 2 5 9 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 3 4 6 7 List 2: 5 8 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 5 7 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 2 5 7 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 3 4 6 8 List 2: 5 7 9 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 3 4 6 9 List 2: 5 7 8 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 5 6 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 2 5 6 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 3 4 7 8 List 2: 5 6 9 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 3 4 7 9 List 2: 5 6 8 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 3 4 8 9 List 2: 5 6 7 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 4 8 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 4 9 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 2 4 8 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 2 4 9 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 3 5 6 7 List 2: 4 8 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 4 7 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 2 4 7 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 3 5 6 8 List 2: 4 7 9 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 3 5 6 9 List 2: 4 7 8 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 4 6 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 2 4 6 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 3 5 7 8 List 2: 4 6 9 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 3 5 7 9 List 2: 4 6 8 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 3 5 8 9 List 2: 4 6 7 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 4 5 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 2 4 5 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 3 6 7 8 List 2: 4 5 9 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 3 6 7 9 List 2: 4 5 8 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 3 6 8 9 List 2: 4 5 7 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 3 7 8 9 List 2: 4 5 6 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 2 8 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 2 9 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 3 8 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 3 9 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 1 8 9 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 2 3 8 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 2 3 9 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 2 8 9 
+
+vector ends 
+List 1: 4 5 6 7 List 2: 3 8 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 2 7 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 3 7 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 1 7 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 2 3 7 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 2 7 9 
+
+vector ends 
+List 1: 4 5 6 8 List 2: 3 7 9 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 1 7 8 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 2 7 8 
+
+vector ends 
+List 1: 4 5 6 9 List 2: 3 7 8 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 2 6 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 3 6 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 1 6 9 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 2 3 6 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 2 6 9 
+
+vector ends 
+List 1: 4 5 7 8 List 2: 3 6 9 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 1 6 8 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 2 6 8 
+
+vector ends 
+List 1: 4 5 7 9 List 2: 3 6 8 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 1 6 7 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 2 6 7 
+
+vector ends 
+List 1: 4 5 8 9 List 2: 3 6 7 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 2 5 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 3 5 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 1 5 9 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 2 3 5 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 2 5 9 
+
+vector ends 
+List 1: 4 6 7 8 List 2: 3 5 9 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 1 5 8 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 2 5 8 
+
+vector ends 
+List 1: 4 6 7 9 List 2: 3 5 8 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 1 5 7 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 2 5 7 
+
+vector ends 
+List 1: 4 6 8 9 List 2: 3 5 7 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 1 5 6 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 2 5 6 
+
+vector ends 
+List 1: 4 7 8 9 List 2: 3 5 6 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 2 3 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 2 4 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 2 9 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 3 4 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 3 9 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 1 4 9 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 2 3 4 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 2 3 9 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 2 4 9 
+
+vector ends 
+List 1: 5 6 7 8 List 2: 3 4 9 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 2 8 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 3 8 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 1 4 8 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 2 3 8 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 2 4 8 
+
+vector ends 
+List 1: 5 6 7 9 List 2: 3 4 8 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 2 7 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 3 7 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 1 4 7 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 2 3 7 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 2 4 7 
+
+vector ends 
+List 1: 5 6 8 9 List 2: 3 4 7 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 2 6 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 3 6 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 1 4 6 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 2 3 6 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 2 4 6 
+
+vector ends 
+List 1: 5 7 8 9 List 2: 3 4 6 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 2 3 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 2 4 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 2 5 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 3 4 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 3 5 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 1 4 5 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 2 3 4 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 2 3 5 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 2 4 5 
+
+vector ends 
+List 1: 6 7 8 9 List 2: 3 4 5 
+
+vector ends 
