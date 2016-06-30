@@ -1,183 +1,361 @@
-#define ARR_SIZE 1000
 #include<stdio.h>
 #include <vector>
 #include <iostream>
 #include <list>
 #include <fstream>
+#include "Solution.h"   // Solution class, needed for combinations
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */
 #include <iterator>     // std::advance
 #include <cmath>
+#include <sstream>
+#include <cstring>
+#include <string>
+#include <stdlib.h>
 
 using namespace std;
 
 vector< vector<int> > points_comb;
 
-
-
-
-
-/* Utility function to print array arr[] */
-void printArray(int arr[], int arr_size);
-
-/* The function prints all combinations of numbers 1, 2, ...MAX_POINT
-   that sum up to n.
-   i is used in recursion keep track of index in arr[] where next
-   element is to be added. Initital value of i must be passed as 0 */
-void printCompositions(int n, int i, int r)
+template<class T>
+class BinarySearchTree
 {
+public:
+	struct tree_node
+	{
+		tree_node* left_child;
+		tree_node* right_sibling;
+		tree_node* parent;
+		T data;
+		T removed_elements; // elements removed until that point
+	};
+	tree_node* root;
 
-  /* array must be static as we want to keep track
-   of values stored in arr[] using current calls of
-   printCompositions() in function call stack*/
-  static int arr[ARR_SIZE];
+	BinarySearchTree()
+	{
+		root = NULL;
+	}
 
-  if (n == 0 && i == r)
-  {
-    printArray(arr, i);
-  }
-  else if(n > 0)
-  {
-    int k;
-    int MAX_POINT = n;
-    for (k = 1; k <= MAX_POINT; k++)
-    {
-      arr[i]= k;
-      printCompositions(n-k, i+1, r);
-    }
-  }
-}
+	tree_node* curr_depth; // This tells about the level of the tree, in which to add the subsets
+	tree_node* curr_depth_iter; // This parses along right
+    tree_node* parent_above_level; // parent of the above level, initialize it to root now
+    tree_node* curr_iter_child; //Going down in a level.
+    tree_node* curr_node;
+    vector<tree_node*> leaf_nodes;
 
-/* UTILITY FUNCTIONS */
-/* Utility function to print array arr[] */
-void printArray(int arr[], int arr_size)
+	bool isEmpty() const { return root==NULL; }
+	void print_inorder();
+	void inorder(tree_node*);
+	void print_preorder();
+	void preorder(tree_node*);
+	void print_postorder();
+	void postorder(tree_node*);
+	void leafNodes(tree_node*);
+	void insertRoot(T);
+	void empty_left(tree_node*, vector<int> &);
+	void insert(T);
+	void remove(T);
+	bool search(T);
+};
+
+// Declaring global tree, as we need only 1
+    BinarySearchTree< vector<int> > b;
+
+
+
+template <class T>
+void BinarySearchTree<T>::insertRoot(T d)
 {
+	tree_node* t = new tree_node;
 
-  int i;
-  vector<int> vec;
-
-  for (i = 0; i < arr_size; i++){
-    //printf("%d ", arr[i]);
-
-   vec.push_back(arr[i]);
-  }
-
- points_comb.push_back(vec); // Pushing it to the final vector
-}
-
-// Subset function
-// Global variable to add lists
-
-vector< list<int> > vec1;
-vector< list<int> > vec2;
-vector< list<int> > vec3;
-
-
-// Subset function
-void print( list<int> l){
-
-    for(list<int>::iterator it=l.begin(); it!=l.end() ; ++it){
-
-      //cout << " " << *it;
-
-    }
-
-    vec1.push_back(l);
-
-    //cout<<"   ";
-
-}
-
-void subset(vector<int> arr, int size, int left, int index, list<int> &l){
-    if(left==0){
-        print(l);
-        return;
-    }
-    for(int i=index; i<size;i++){
-        l.push_back(arr[i]);
-        subset(arr, size, left-1, i+1, l);
-        l.pop_back();
-
-    }
-
-}
-
-// Subset function
-void print_new( list<int> l){
-
-    for(list<int>::iterator it=l.begin(); it!=l.end() ; ++it){
-
-      //cout << " " << *it;
-
-    }
-
-
-
-    vec2.push_back(l);
-
-    //cout<<"   ";
-
-}
-
-void subset_new(vector<int> arr, int size, int left, int index, list<int> &l){
-    if(left==0){
-        print_new(l);
-        return;
-    }
-    for(int i=index; i<size;i++){
-        l.push_back(arr[i]);
-        subset_new(arr, size, left-1, i+1, l);
-        l.pop_back();
-
-    }
-
-}
-
-// Subset function
-void print_new_1( list<int> l){
-
-    for(list<int>::iterator it=l.begin(); it!=l.end() ; ++it){
-
-      //cout << " " << *it;
-
-    }
-
-
-
-    vec3.push_back(l);
-
-    //cout<<"   ";
-
-}
-
-void subset_new_1(vector<int> arr, int size, int left, int index, list<int> &l){
-    if(left==0){
-        print_new_1(l);
-        return;
-    }
-    for(int i=index; i<size;i++){
-        l.push_back(arr[i]);
-        subset_new_1(arr, size, left-1, i+1, l);
-        l.pop_back();
-
-    }
+	t->data = d;
+	t->left_child = NULL;
+	t->right_sibling = NULL;
+	t->parent = NULL;
+	// is this a new tree?
+	if(isEmpty()) root = t;
 
 }
 
 
+template <class T>
+void BinarySearchTree<T>::insert(T d)
+{
+	tree_node* t = new tree_node;
+	tree_node* parent;
 
 
-// Helper functions
+	t->data = d;
+	t->left_child = NULL;
+	t->right_sibling = NULL;
+	t->parent = b.curr_depth;
+	parent = NULL;
 
-// FUnction to print a vector
+
+
+	// is this a new tree?
+	if(isEmpty()) root = t;
+	else
+	{
+		//Note: ALL insertions are as leaf nodes
+		tree_node* curr;
+
+        t->parent = curr_depth;
+
+
+
+
+
+		if(curr_depth->left_child == NULL){
+
+            curr_depth->left_child = t;
+
+		}
+		else{
+
+            curr = curr_depth->left_child;
+
+
+
+            while(curr)
+            {
+			parent = curr;
+			curr = curr->right_sibling;
+            }
+
+            parent->right_sibling = t;
+
+		}
+
+		// Find the Node's parent
+
+
+	}
+}
+
+
+  ofstream myfile;
+
  void print_vec(vector<int> v){
+
+
+
+             myfile<<"vector is: ";
 
      for(int i=0; i< v.size(); i++){
 
         cout<< v[i]<<" ";
+
+        myfile << v[i]<< " ";
      }
 
+    cout<<endl;
+     myfile<<endl;
+
+
+
  }
+
+
+
+
+template <class T>
+void BinarySearchTree<T>::print_preorder()
+{
+    preorder(root);
+}
+
+template <class T>
+void BinarySearchTree<T>::preorder(tree_node* p)
+{
+    if(p != NULL)
+    {
+        cout<<"vector is:"<<endl;
+        print_vec(p->data);
+        if(p->left_child) preorder(p->left_child);
+        if(p->right_sibling) preorder(p->right_sibling);
+    }
+    else return;
+}
+
+
+
+
+
+// Subset function
+void print( vector<int> &v){
+
+  //  cout<<endl;
+
+    b.insert(v);
+
+}
+
+void remove_common(vector<int> &arr, vector<int> parents){  // original array and parent
+
+    vector<int> vec_copy;
+
+    vec_copy.clear();
+
+    for(int j=0; j< arr.size(); j++){
+
+        bool present_not = true;
+
+        for(vector<int>::iterator it = parents.begin(); it != parents.end(); ++it){
+
+            if( *it == arr[j]){
+                present_not = false;
+            }
+        }
+
+        if(present_not){
+            vec_copy.push_back(arr[j]);
+        }
+    }
+
+    arr.clear();
+
+    arr = vec_copy; // remove the elements and output the vector
+
+}
+
+void subset(vector<int> &arr, int size, int left, int index, vector<int> &v){
+    if(left==0){
+        print(v);
+        return;
+    }
+    for(int i=index; i<size;i++){
+        v.push_back(arr[i]);
+        subset(arr, size, left-1, i+1, v);
+        v.pop_back();
+
+    }
+
+}
+
+template<class T>
+void BinarySearchTree<T>::empty_left(tree_node* p, vector<int> &remove_elements)
+{
+    if(p != NULL)
+    {
+
+        if(p->left_child){
+          remove_elements.insert(remove_elements.end(),p->data.begin(), p->data.end());
+
+         // print_vec(remove_elements);
+          preorder(p->left_child);
+        }
+
+    }
+    else return;
+}
+
+
+// main subset function
+template <class T>
+void BinarySearchTree<T>::leafNodes(tree_node* t)
+{
+      if(t == NULL)
+        return;
+       if(t->left_child == NULL && t->right_sibling ==NULL){
+            b.leaf_nodes.push_back(t);
+       }
+       leafNodes(t->left_child);
+       leafNodes(t->right_sibling);
+}
+
+
+
+
+void subset_comb(vector<int> &arr, int size, vector<int> &comb){
+
+    b.insertRoot(arr);
+
+    // Initailizing root
+
+
+    vector<int> v;
+
+    vector<int> arr_copy;
+
+    vector<int> remove_elements;
+
+    /*      <1,2,3,4,5,6,7,8,9>
+            /
+            <1>-><2>-><3>-><4>-><5>-><6>-><7>-><8>-><9>
+            /
+           <2,3>-><3,4>
+    */
+
+
+    for(vector<int>::iterator iter = comb.begin(); iter != comb.end(); ++iter){
+
+        b.leaf_nodes.clear(); // clear the leaf_nodes vector
+
+        b.leafNodes(b.root);  // add all the leaf nodes to leaf_nodes vector
+
+        //leaf_nodes vector is obtained
+
+        vector<BinarySearchTree< vector<int> >::tree_node*> vec = b.leaf_nodes;
+
+
+        for(vector<BinarySearchTree< vector<int> >::tree_node*>::iterator iter2 = vec.begin(); iter2 != vec.end(); ++iter2){
+
+            b.curr_depth = *iter2;
+
+            arr_copy = arr;
+
+            // add all the parent elements to the remove_elements vector
+
+            BinarySearchTree< vector<int> >::tree_node* parent_elem;
+
+            parent_elem = b.curr_depth;
+
+            remove_elements.clear();
+
+            /*
+
+
+            while(1){
+
+
+               // cout<<"check"<<endl;
+
+                if(parent_elem->parent){
+
+                    parent_elem = parent_elem->parent;
+
+                  //  cout<<"parent vector is: "<<endl;
+
+                    //print_vec(parent_elem->data);
+                }else{
+                     break;
+                }
+
+
+                remove_elements.insert(remove_elements.end(), parent_elem->data.begin(), parent_elem->data.end());
+
+
+
+            } */
+
+            remove_common(arr_copy, remove_elements);
+
+            subset(arr_copy, arr_copy.size(), *iter, 0, v);
+        }
+
+
+    }
+
+
+
+}
+
+
+
+// Subset function
+// Global variable to add lists
+
 
 //vector<iteration> clusters;
 
@@ -229,11 +407,14 @@ public:
     vector< list<int> > vector_list;
     vector<int> combination;
     vector<int> population;
-    vector<int> distances;
+    vector<int> node_center;
     double score_cv;
-    double dist_norm;
-    double sum_cv_norm;
-
+    double score_cv_norm;
+    double distances_sum;
+    double distances_sum_norm; // norm here means normalized, i.e divide it by the largest of all the populations
+    double distances_diff_sum;
+    double distances_diff_sum_norm;
+    double norm; // the cartesian distance of the 3 parameters
 
 };
 
@@ -293,151 +474,204 @@ double cv(vector<int> v){
 
 vector<final_matrix> final_matrix_objects;
 
+vector<string> split(const string &s, char delim) {
+    stringstream ss(s);
+    string item;
+    vector<string> tokens;
+    while (getline(ss, item, delim)) {
+        tokens.push_back(item);
+    }
+    return tokens;
+}
 
-/* Driver function to test above functions */
+
+/* Driver function */
 int main()
 {
   int n, r;
 
-  n = 9;
-  r = 3;
+  // Input from file
 
-  // cin n later
 
-  printCompositions(n, 0, r);
+  ifstream inputfile;
 
-  ofstream myfile;
+  inputfile.open("input.csv");
 
-  myfile.open("comb.txt");
+  string line;
 
-  for(int i=0; i< points_comb.size(); i++){
+  getline (inputfile,line , ',');
+  getline (inputfile,line ,',');
+  stringstream ss(line);
+  ss >> n;
 
-    for(vector<int>::iterator it = points_comb[i].begin(); it != points_comb[i].end(); ++it){
 
-        myfile << *it << " ";
+  getline (inputfile,line);
+  getline (inputfile,line, ',');
+  getline (inputfile,line, ',');
+
+  stringstream ss2(line);
+
+  ss2>>r;
+
+  cout<<"n is: "<<n<<endl;
+  cout<<"r is: "<<r<<endl;
+
+  cout<<"Please update the input.xlsx file in the folder and convert it into CSV file of same name before you run the program"<<endl;
+
+  // scores
+
+      double score;
+
+      vector<double> p;  // score/value population vector
+      vector<string> place_names;
+      string place;
+
+
+
+    getline (inputfile,line);
+
+    for(int i=0; i<n; i++){
+
+        getline (inputfile,line);
+
+        getline (inputfile,line, ',');
+
+        stringstream ss5(line);
+
+        ss5>> place;
+
+        place_names.push_back(place);
+
+        getline (inputfile,line, ',');
+
+        stringstream ss4(line);
+
+        ss4>>score;
+        p.push_back(score);
     }
 
-    myfile<<endl;
-  }
-    myfile.close();
 
-  //Checking that the points comb vector is correct.
+    double dist[n][n]; // distances vector. This is based on the indexes of the places
+
+    double distance;
+    string line_var;
+    char ch;
+
+    inputfile.clear();
+
+    inputfile.seekg(0, ios::beg);
+
+    getline (inputfile,line_var);
+    getline (inputfile,line_var);
+    getline (inputfile,line_var);
+
+    vector<double> dist_vec;
+
+    while(1)
+    {
+        getline (inputfile,line_var);
+
+        if(inputfile.eof()) break;
 
 
-  // THe combinations are correct.
+       vector<string> tokens = split(line_var, ',');
 
-     int size = 9;
-     int left = 4;
+       vector<string>::iterator it = tokens.end();
 
-  vector<int> arr;
+       it = it - 1;
 
-  for(int i=0; i< size; i++){
-    arr.push_back(i+1);
-  }
+       string s = *it;
 
-  int index = 0;
+       double num = atof( s.c_str());
+       dist_vec.push_back(num);
 
-  list<int> l;
-
-  vec1.clear();
-
-  subset( arr, size, left, index, l);
-
-  /*
-
-  for(int i=0; i< vec1.size(); i++){
-
-    for(list<int>::iterator it = vec1[i].begin(); it != vec1[i].end(); ++it){
-
-        cout<< *it <<" ";
     }
 
-    cout<< endl;
-  }
 
-  cout<< "vec1 ends \n"; */
-
-  // Write the second loop
-
-  vector<int> vec_copy;
+    int dist_index = 0;
 
 
-  for(int i=0; i< vec1.size(); i++){
+      for(int i=0; i<n; i++){
 
-    list<int> lt = vec1[i];
-    // Iterate through the list and initial vector to remove common elements
+        for(int j=0; j<n; j++){
 
-    vec_copy.clear();
-
-    for(int j=0; j< arr.size(); j++){
-
-        bool present_not = true;
-
-        for(list<int>::iterator it = lt.begin(); it != lt.end(); ++it){
-
-            if( *it == arr[j]){
-                present_not = false;
+            if(i==j){
+                dist[i][j] = 0;
+            }
+            else{
+                dist[i][j] = dist_vec[dist_index];
+                dist_index++;
             }
         }
+      }
 
-        if(present_not){
-            vec_copy.push_back(arr[j]);
+    inputfile.close();
+
+ /*
+ Now we have all the inputs
+ total points n, clusters r
+ population/score/value vector p
+ distance between all points matrix dist, which is 2 d array
+
+ */
+
+
+
+
+
+    ofstream myfile;
+// Combinations code
+
+    myfile.open("comb.txt");
+
+	const int S_LIMIT = n;
+
+	int vals[n];
+
+	for(int i=0; i<n; i++){
+
+        vals[i] = i+1;
+
+	}
+	Solution so;
+
+	int S = 15;
+
+
+    cout << "For n = " << S << ":" << endl;
+
+	vector<vector<int>>	result = so.getComb(vals, sizeof(vals)/sizeof(int), S);
+
+    points_comb = result;
+
+    for(int i=0; i<points_comb.size(); i++){
+
+        for(int j=0; j<points_comb[i].size(); j++){
+            cout<<points_comb[i][j]<<" ";
         }
+        cout<<endl;
     }
 
 
-    list<int> lt_random;
+  // We get point_comb vector complete.
 
-    list<int> l;
+  // Combinations are done
 
+  // Now let's distribute the points
 
-  //  print_vec(vec_copy);
+  	vector<int> points;
 
-    vec2.clear();
+	for(int i=0; i<n; i++){
+        points.push_back(i+1);
+	}
 
-    subset_new( vec_copy, 5, 3, 0, l);
+	// Main function that would distribute the values
 
-    // vec2 will have 10 items
+	vector<int> vec = points_comb[2]; // random allocation for now
 
+	  subset_comb(points, points.size(), vec );
 
-    // Adding the lists to a vector that will then be added to a final vector
-
-            vector<int> vec_copy_1;
-
-      for(int p=0; p< vec2.size(); p++){
-
-            list<int> lt_new = vec2[p];
-
-            vec_copy_1.clear();
-
-                // Iterate through the list and initial vector to remove common elements
-
-
-
-            for(int j=0; j< vec_copy.size(); j++){
-
-                bool present_not_1 = true;
-
-                for(list<int>::iterator it = lt_new.begin(); it != lt_new.end(); ++it){
-
-                    if( *it == vec_copy[j]){
-                        present_not_1 = false;
-                    }
-                }
-
-                if(present_not_1){
-                    vec_copy_1.push_back(vec_copy[j]);
-                }
-            }
-
-                list<int> l;
-
-
-                vec3.clear();
-
-                subset_new_1( vec_copy_1, 2, 2, 0, l);
-
-                for(int z=0; z<vec3.size(); z++){
+/*
 
 
                         cluster_points_vector.clear();
@@ -450,23 +684,17 @@ int main()
 
                         cluster_points.push_back(cluster_points_vector);
 
-
-                }
-
-      }
-
-  }
+}
+*/
 
 
 
-  ofstream myfile2;
 
-  myfile2.open("clusters.txt");
 
 
   // Print clusters vector
 
-  cout<<"Cluster points siez is: "<<cluster_points.size()<<endl;
+  cout<<"Cluster points size is: " << cluster_points.size()<<endl;
 
 
   for(int i=0; i<cluster_points.size(); i++){
@@ -497,32 +725,6 @@ int main()
 
 
 
-  cout<<" Reading from the object vector: \n\n";
-
-
-
-  // Random scores
-
-  int p[] = {50, 60, 70, 40, 56, 70, 56, 49, 70};
-
-  // Random distances
-
-  int dist[9][9];
-
-  for(int i=0; i<9; i++){
-
-    for(int j=0; j<9; j++){
-
-        if(i==j){
-            dist[i][j] = 0;
-        }
-        else{
-            dist[i][j] = rand() % 10 + 1;
-        }
-    }
-  }
-
-
 
   /* 3 conditions
 
@@ -547,9 +749,6 @@ int main()
         obj.combination = comb_;
         obj.vector_list = vector_;
 
-
-
-
         for(int j=0; j<vector_.size(); j++){
 
                 int population = 0;
@@ -570,22 +769,21 @@ int main()
 
                     distance += dist[*it -1][*it2 - 1];
 
-                  //  cout<<"distance is: " << distance<<endl<<endl;
                 }
 
             }
 
 
             obj.population.push_back(population);
-            obj.distances.push_back(distance);
+         //   obj.distances.push_back(distance);
 
             // Construct CV and distance norm
 
         }
 
-        obj.dist_norm = DistanceNorm(obj.distances);
+       // obj.dist_norm = DistanceNorm(obj.distances);
         obj.score_cv = cv(obj.population);
-        obj.sum_cv_norm = obj.dist_norm + obj.score_cv;
+//        obj.sum_cv_norm = obj.dist_norm + obj.score_cv;
 
         final_matrix_objects.push_back(obj);
 
@@ -605,86 +803,91 @@ int main()
         vector< list<int> > vector_ = final_matrix_objects[i].vector_list;
         vector<int> comb_ = final_matrix_objects[i].combination;
         vector<int> pop = final_matrix_objects[i].population;
-        vector<int> distance = final_matrix_objects[i].distances;
+  //      vector<int> distance = final_matrix_objects[i].distances;
 
-        print_vec(comb_);
+       // print_vec(comb_);
 
-        cout<< "     ";
+       // cout<< "     ";
 
         for(int j=0; j<vector_.size(); j++){
 
             for(list<int>::iterator it = vector_[j].begin(); it != vector_[j].end(); ++it){
 
-                cout<< *it <<" ";
+           //     cout<< *it <<" ";
             }
-            cout<<"  ";
+          //  cout<<"  ";
         }
 
-        cout<< "      ";
+      //  cout<< "      ";
 
         for(int j=0; j<pop.size(); j++){
 
-            cout<< pop[j] <<" ";
+        //    cout<< pop[j] <<" ";
 
         }
 
-        cout<< "      ";
+      //  cout<< "      ";
 
-        for(int j=0; j<distance.size(); j++){
+    //    for(int j=0; j<distance.size(); j++){
 
-            cout<< distance[j] <<" ";
+      //      cout<< distance[j] <<" ";
 
         }
 
-        cout<< "      ";
+      //  cout<< "      ";
 
-        cout<< final_matrix_objects[i].dist_norm;
+       // cout<< final_matrix_objects[i].dist_norm;
 
 
-        cout<< "      ";
+       // cout<< "      ";
 
-        cout<< final_matrix_objects[i].score_cv;
+       // cout<< final_matrix_objects[i].score_cv;
 
-        cout<< "      ";
+      //  cout<< "      ";
 
-        cout<< final_matrix_objects[i].sum_cv_norm;
+     //   cout<< final_matrix_objects[i].sum_cv_norm;
 
-        if(final_matrix_objects[i].sum_cv_norm < sum_cv_min ){
-            sum_cv_min = final_matrix_objects[i].sum_cv_norm ;
-            sum_min_index = i ;
-        }
+      //  if(final_matrix_objects[i].sum_cv_norm < sum_cv_min ){
+        //    sum_cv_min = final_matrix_objects[i].sum_cv_norm ;
+          //  sum_min_index = i ;
+       // }
 
-        cout<<endl;
-  }
+     //   cout<<endl;
+  //}
 
-  cout<< "\n\nThe min sum is: "<< sum_cv_min <<endl;
 
-  cout<<" And the index is: "<< sum_min_index <<endl;
 
   // We got the min sum. let's display it
 
-  cout<<"\n\nThe min cluster is: \n\n";
+  // Find out the center nodes of the obtained clusters
 
-        vector< list<int> > vector_ = final_matrix_objects[sum_min_index].vector_list;
-        vector<int> comb_ = final_matrix_objects[sum_min_index].combination;
-        vector<int> pop = final_matrix_objects[sum_min_index].population;
-        vector<int> distance = final_matrix_objects[sum_min_index].distances;
+    cout<<"\n\nThe min cluster is: \n\n";
 
-        print_vec(comb_);
+    /*
 
-        cout<< "     ";
+    vector< list<int> > vector_ = final_matrix_objects[sum_min_index].vector_list;
+    vector<int> comb_ = final_matrix_objects[sum_min_index].combination;
+    vector<int> pop = final_matrix_objects[sum_min_index].population;
+//    vector<int> distance = final_matrix_objects[sum_min_index].distances;
 
-        for(int j=0; j<vector_.size(); j++){
+    print_vec(comb_);
 
-            for(list<int>::iterator it = vector_[j].begin(); it != vector_[j].end(); ++it){
 
-                cout<< *it <<" ";
-            }
-            cout<<"  ";
+
+    cout<< "     ";
+
+    for(int j=0; j<vector_.size(); j++){
+
+
+        for(list<int>::iterator it = vector_[j].begin(); it != vector_[j].end(); ++it){
+
+            cout<< *it <<" ";
+
         }
 
-        // Find out the cluster center, ask Rahi.
+        cout<<"  ";
 
+    } */
 
   return 0;
 }

@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Solution.cpp" />
+		<Unit filename="Solution.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="print_comb.cpp" />
+		<Unit filename="print_comb.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -1,12 +1,28 @@
 # depslib dependency file v1.0
-1466175298 source:c:\users\udaykiran\documents\c++\ncr_final\main.cpp
+1466718958 source:c:\users\udaykiran\documents\c++\ncr_final\print_comb.cpp
+	"print_comb.h"
+
+1466718958 c:\users\udaykiran\documents\c++\ncr_final\print_comb.h
+
+1466719246 source:c:\users\udaykiran\documents\c++\ncr_final\solution.cpp
+	"Solution.h"
+
+1466719141 c:\users\udaykiran\documents\c++\ncr_final\solution.h
+	<vector>
+
+1467244102 source:c:\users\udaykiran\documents\c++\ncr_final\main.cpp
 	<stdio.h>
 	<vector>
 	<iostream>
 	<list>
 	<fstream>
+	"Solution.h"
 	<stdlib.h>
 	<time.h>
 	<iterator>
 	<cmath>
+	<sstream>
+	<cstring>
+	<string>
+	<stdlib.h>
 
